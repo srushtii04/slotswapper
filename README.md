@@ -4,8 +4,9 @@ A web application that allows users to create events, view their schedule, and s
 It helps people manage time efficiently by coordinating and exchanging available slots seamlessly.
 
 # how to run 
-##1.Clone the Repository
-git clone https://github.com/srushtii04/slotswapper.git
+1.Clone the Repository
+git clone https://github.com/srushtii04/slotswapper.git  
+
 cd slotswapper
 
 ## 2.Setup Backend
