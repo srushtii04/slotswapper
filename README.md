@@ -9,6 +9,7 @@ git clone https://github.com/srushtii04/slotswapper.git
 cd slotswapper
 
 ## 2.Setup Backend
+```bash
 cd backend
 npm install
 
